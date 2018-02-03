@@ -10,6 +10,7 @@
   <name>Parent</name>
   <description>Just a pom that makes it easy to build both projects at the same time.</description>
 xyz
+new line added
   <modules>
     <module>multi-module</module>
     <module>single-module</module>
